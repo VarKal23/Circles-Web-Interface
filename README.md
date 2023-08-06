@@ -17,6 +17,8 @@ E2E encryption code as in Element and other popular Matrix clients.
 - [Circles code](https://gitlab.futo.org/circles)
 - [Circles Website](https://circu.li/circles.html)
 
+Note: The current version of this project is only internally accessible by FUTO on gitlab with plans to open-source in the future as all FUTO projects are. I've received permission, however, to display this project on my profile.
+
 # Current Features
 User Registration and Authentication
 - Implementation of the [swiclops](https://gitlab.futo.org/cvwright/swiclops) authentication flows
