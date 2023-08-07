@@ -24,7 +24,7 @@ User Registration and Authentication
 - Implementation of the [swiclops](https://gitlab.futo.org/cvwright/swiclops) authentication flows
      - Username and password validation
      - token based email validation
-     - [BS-Speke](https://gist.github.com/Sc00bz/e99e48a6008eef10a59d5ec7b4d87af3) cryptographic password enrollment/verification
+     - [BS-Speke](https://gitlab.futo.org/cvwright/Cbsspeke/-/blob/main/Sources/Cbsspeke/bsspeke.c) (Blind-Salt adaptation of [SPEKE](https://en.wikipedia.org/wiki/SPEKE#:~:text=SPEKE%20is%20one%20of%20the,with%20a%20constant%20gq.) )cryptographic password enrollment/verification
 - Profile and Circles Setup
     - Name and display picture setup
     - Default room setup including room avatar selection
